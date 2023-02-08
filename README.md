@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: sloth4#0001
-- 🤏 17 Years old
+- 🤏 18 Years old
 - ❤️ Love QBCore
 - My Discord: https://discord.io/httpsdiscordggSloth_Development 
 
