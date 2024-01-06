@@ -2,7 +2,6 @@
 - 📫 How to reach me: sloth4#0001
 - 🤏 17 Years old
 - ❤️ Love QBCore
-- My Discord: https://discord.io/httpsdiscordggSloth_Development 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth4&show_icons=true&theme=tokyonight)
 
