@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: sloth4#0001
-- 🤏 17 Years old
+- 🤏 18 Years old
 - ❤️ Love QBCore
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth4&show_icons=true&theme=tokyonight)
